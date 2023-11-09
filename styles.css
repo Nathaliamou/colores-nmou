@@ -1,0 +1,206 @@
+.contenedorPrincipal{
+    border: wheat;
+    border-style:double ;
+    border: 5px;
+    height: 50%;
+    background-position: flex;
+    font-display: center;
+    font-size:small;
+    font-style: italic;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.text-bg-primary {
+    background-color: #007bff; /* Color de fondo primario */
+    color: #ffffff; /* Color de texto contrastante */
+  }
+  
+  .text-bg-secondary {
+    background-color: #6c757d; /* Color de fondo secundario */
+    color: #ffffff; /* Color de texto contrastante */
+  }
+  
+  .text-bg-success {
+    background-color: #28a745; /* Color de fondo de éxito */
+    color: #ffffff; /* Color de texto contrastante */
+  }
+  
+  .text-bg-danger {
+    background-color: #dc3545; /* Color de fondo de peligro */
+    color: #ffffff; /* Color de texto contrastante */
+  }
+  
+  .text-bg-warning {
+    background-color: #ffc107; /* Color de fondo de advertencia */
+    color: #000000; /* Color de texto contrastante */
+  }
+  
+  .text-bg-info {
+    background-color: #17a2b8; /* Color de fondo de información */
+    color: #ffffff; /* Color de texto contrastante */
+  }
+  
+  .text-bg-blue {
+    background-color:blue; /* Color de fondo claro */
+    color: #000000; /* Color de texto contrastante */
+  }
+  
+  .text-bg-indigo {
+    background-color:#17a2b8; /* Color de fondo claro */
+    color: #000000; /* Color de texto contrastante */
+  }
+  .text-bg-purple {
+    background-color:purple; /* Color de fondo claro */
+    color: #000000; /* Color de texto contrastante */
+  }
+  .text-bg-pink {
+    background-color:pink; /* Color de fondo claro */
+    color: #000000; /* Color de texto contrastante */
+  }
+
+  .text-bg-red {
+    background-color:red; /* Color de fondo claro */
+    color: #000000; /* Color de texto contrastante */
+  }
+  .text-bg-yellow {
+    background-color:yellow; /* Color de fondo claro */
+    color: #000000; /* Color de texto contrastante */
+  }
+
+  .text-bg-greenyellow {
+    background-color:greenyellow; /* Color de fondo claro */
+    color: #000000; /* Color de texto contrastante */
+  }
+  .text-bg-palevioletred {
+    background-color:palevioletred; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-nathaliamou11 {
+    background-color:rgb(220, 47, 105); /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-nathaliamou12 {
+    background-color:rgb(236, 48, 110); /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-blueviolet {
+    background-color:blueviolet; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-darkmagenta {
+    background-color:darkmagenta; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-darkorchid {
+    background-color:darkorchid; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-darkviolet {
+    background-color:darkviolet; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-deeppink {
+    background-color:deeppink; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-magenta {
+    background-color:magenta; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-lightcoral {
+    background-color:lightcoral; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-orchid {
+    background-color:orchid; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-violet {
+    background-color:violet; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-crimson {
+    background-color:crimson; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-nathaliamou14 {
+    background-color:rgb(147, 37, 147); /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-azul-cielo {
+    background-color:#007bff; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-lightsalmon {
+    background-color:lightsalmon; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-mediumslateblue {
+    background-color:mediumslateblue; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  
+  .text-bg-hover {
+    background-color:#D0115F; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-primary {
+    background-color:#EE2B7B; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-active {
+    background-color:#EE2B7B; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-nathaliamou1 {
+    background-color:#f28ab5; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-nathaliamou2 {
+    background-color:#f8a7c9; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-nathaliamou3 {
+    background-color:#f2c7d9; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  
+  .text-bg-nathaliamou13 {
+    background-color:rgb(231, 168, 189); /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+
+  .text-bg-nathaliamou4 {
+    background-color:#74163d; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-nathaliamou5 {
+    background-color:#873054; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-nathaliamou6 {
+    background-color:#6e4355; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-nathaliamou7 {
+    background-color:#705862; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-nathaliamou8 {
+    background-color:#ed3fe4; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-nathaliamou9 {
+    background-color:#ed82e8; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+  .text-bg-nathaliamou10 {
+    background-color:#752171; /* Color de fondo claro */
+    color:whitesmoke; /* Color de texto contrastante */
+  }
+
+
+
+
+
